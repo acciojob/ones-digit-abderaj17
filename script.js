@@ -3,6 +3,7 @@ function onesDigit(n) {
 	let lastDigit = n%10;
 	
 	return lastDigit;  
+	
 }
  
 // Do not change the code below 
